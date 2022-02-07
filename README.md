@@ -7,7 +7,7 @@
 -Added the rest or the declared variables.
 -Added the rest of the window prompts.
 -Optimized password choices to concatenate with password.
--
+-At this point most of the work was done, just needed to add the for loop and it was good to go.
 
 
 
